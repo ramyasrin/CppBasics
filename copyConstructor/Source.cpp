@@ -1,3 +1,4 @@
+//sample for copy constructor
 #include<iostream>
 
 using namespace std;
